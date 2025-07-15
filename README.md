@@ -1,4 +1,4 @@
-# meta-STM32
+# meta-qemu
 
 ## Yocto History :
 
